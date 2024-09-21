@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "Controle_de_Materiais_2",
+    "slug": "Controle_de_Materiais_2"
+  }
+}
